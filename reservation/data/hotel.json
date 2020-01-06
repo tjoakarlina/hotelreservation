@@ -1,0 +1,31 @@
+{
+    "hotelName": "BV hotel",
+    "rooms":
+    [
+        {
+            "number": "101",
+            "type": "Standard",
+            "price": 200
+        },
+        {
+            "number": "102",
+            "type": "Standard",
+            "price": 200
+        },
+        {
+            "number": "201",
+            "type": "Superior",
+            "price": 300
+        },
+        {
+            "number": "202",
+            "type": "Superior",
+            "price": 300
+        },
+        {
+            "number": "301",
+            "type": "Deluxe",
+            "price": 400
+        }
+    ]
+}
